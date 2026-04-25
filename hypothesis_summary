@@ -1,0 +1,21 @@
+Business Hypothesis:
+The new website layout increases the conversion rate.
+
+Null Hypothesis (H0):
+The new layout does not affect conversion rates.
+
+Alternative Hypothesis (H1):
+The new layout increases conversion rates.
+
+Statistical Test:
+Two Sample T-Test
+
+Significance Level:
+0.05
+
+Results:
+Conversion Rate A = 12%
+Conversion Rate B = 15%
+
+Conclusion:
+The new layout improves conversions and should be implemented.
